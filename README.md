@@ -2,8 +2,8 @@
 </br>
 Hi there :wave:, I am Vigneswaran. 
 </br>
-I'm senior undergraduate Computer Science student at Sastra University, India. 
+I'm a senior undergraduate Computer Science student at Sastra University, India. 
 </br>
-My profile and blogging webpage: [vigneswaran-chandrasekaran.github.io](vigneswaran-chandrasekaran.github.io)
+My profile and blogging [webpage](vigneswaran-chandrasekaran.github.io)
 </br>
-Grateful to acknowledge [barryclark/jekyll-no](https://github.com/barryclark/jekyll-now) for the theme utilized.
+Grateful to acknowledge [barryclark's jekyll-no](https://github.com/barryclark/jekyll-now) for the theme utilized.
