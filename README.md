@@ -2,7 +2,7 @@
 </br>
 Hi there :wave:, I am Vigneswaran. 
 </br>
-I'm senior undergraduate Computer Science student at Sastra University, India. 
+I'm a senior undergraduate Computer Science student at Sastra University, India. 
 </br>
 My profile and blogging webpage: [vigneswaran-chandrasekaran.github.io](vigneswaran-chandrasekaran.github.io)
 </br>
