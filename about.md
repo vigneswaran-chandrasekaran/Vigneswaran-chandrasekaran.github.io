@@ -5,7 +5,7 @@ permalink: /about/
 ---
 #### Quick Introduction about me:
 
-<img src="images/vicky_about.jpg" alt="Vicky sitting on the wall">
+![alt text](images/vicky_about.jpg)
 
 My name is `Vigneswaran Chandrasekaran` and you can call me `Vicky`
 
