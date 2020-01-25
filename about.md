@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-#### Quick Introduction about me:
 
 ![alt text](images/vicky_about.jpg)
 
