@@ -4,6 +4,9 @@ title: About me
 permalink: /about/
 ---
 #### Quick Introduction about me:
+
+<img src="images/vicky_about.jpg" alt="Vicky sitting on the wall">
+
 My name is `Vigneswaran Chandrasekaran` and you can call me `Vicky`
 
 I'm a senior undergraduate Computer Science student at [Sastra University](http://www.sastra.edu), India
