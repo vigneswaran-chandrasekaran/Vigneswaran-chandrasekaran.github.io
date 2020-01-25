@@ -6,6 +6,8 @@ permalink: /about/
 
 ![alt text](images/vicky_about.jpg)
 
+### A quick introduction about me
+
 My name is `Vigneswaran Chandrasekaran` and you can call me `Vicky`
 
 I'm a senior undergraduate Computer Science student at [Sastra University](http://www.sastra.edu), India
