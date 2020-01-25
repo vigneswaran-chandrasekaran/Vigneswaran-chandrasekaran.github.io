@@ -1,9 +1,10 @@
-### Vigneswaran Chandrasekaran's profile page
+### Vigneswaran's profile page
 </br>
-Hi there :wave:, I am Vigneswaran. 
-</br>
-I'm senior undergraduate Computer Science student at Sastra University, India. 
-</br>
-My profile and blogging webpage: [vigneswaran-chandrasekaran.github.io](vigneswaran-chandrasekaran.github.io)
-</br>
-Grateful to acknowledge [barryclark/jekyll-no](https://github.com/barryclark/jekyll-now) for the theme utilized.
+
+Theme utilized from 
+
+[barryclarkjekyllno](https://github.com/barryclark/jekyll-now) and very glad/grateful to acknowledge the great work.
+
+<br></br>
+
+[Webpage link](vigneswaran-chandrasekaran.github.io)

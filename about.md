@@ -4,11 +4,13 @@ title: About me
 permalink: /about/
 ---
 #### Quick Introduction about me:
-Hi, my name is Vigneswaran
+My name is `Vigneswaran Chandrasekaran` and you can call me `Vicky`
 
-I'm senior undergraduate Computer Science student at [Sastra University](www.sastra.edu), India
+I'm a senior undergraduate Computer Science student at [Sastra University](http://www.sastra.edu), India
 
-I'm very much passionate about Computational Neuroscience and Deep Learning
+I love Computational Neuroscience and Theoretical Computer Science
+
+I strive each day to travel the path of becoming better human being and impress myself
 
 ### Contact me
-[vigneswaran0610[at]gmail.com](mailto:vigneswaran0610@gmail.com), I would be glad to hear from you
+You can contact me through [vigneswaran0610[at]gmail.com](mailto:vigneswaran0610@gmail.com)
