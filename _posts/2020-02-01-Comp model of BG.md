@@ -1,14 +1,5 @@
 ---
 layout: post
-title: Computational model of Basal Ganglia
+title: Modelling of Basal Ganglia
 ---
 
-The separate nuclei of the basal ganglia all have extensive roles of their own in the brain, but they also are interconnected with one another to form a network that is thought to be involved in a variety of cognitive, emotional, and movement-related functions. The basal ganglia are best-known, however, for their role in movement.
-
-The contributions of the basal ganglia to movement are complex and still not completely understood. In fact, the basal ganglia probably have multiple movement-related functions, ranging from choosing actions that are likely to lead to positive consequences to avoiding things that might be aversive. But the basal ganglia are most often linked to the initiation and execution of movements. One popular hypothesis suggests that the basal ganglia act to facilitate desired movements and inhibit unwanted and/or competing movements. 
-
-To understand how this might work, think about the action of reaching out to pick up a pencil. First, consider what’s happening in the moments before you extend your arm. Although it might seem like there would be very little movement-related activity going on in the brain at this point (because you are sitting still), your brain is actually constantly at work to inhibit unwanted movements (like jerking your hand involuntarily up in the air or suddenly turning your head to one side). The basal ganglia are hypothesized to play a critical role in this type of movement inhibition, as well as in the release of that inhibition when you do have a movement that you want to make (reaching for the pencil in this case).
-
-After the movement begins, it’s also important that muscles that would counteract the desired movement remain relaxed. When you extend your arm to reach for the pencil, for example, you don’t want the muscles that flex your arm (to move it back towards your body) to be activated at the same time. The basal ganglia are thought to help to inhibit these types of contradictory movements, allowing for a reaching movement that’s smooth and fluid.
-
-The intricacies of how basal ganglia activity leads to the facilitation of movement are still a bit unclear, but one popular hypothesis (which I’ll call the direct/indirect model for reasons that will be made clear below) suggests that there are different pathways in the basal ganglia that promote and inhibit movement, respectively. The direct/indirect model is centered around connections the basal ganglia (specifically the globus pallidus and substantia nigra) form with neurons in the thalamus. These thalamic neurons in turn project to the motor cortex (an area of the brain where many voluntary movements originate) and can stimulate movement via these connections. The basal ganglia, however, continuously inhibit the thalamic neurons, which stops them from communicating with the motor cortex—inhibiting movement in the process.
