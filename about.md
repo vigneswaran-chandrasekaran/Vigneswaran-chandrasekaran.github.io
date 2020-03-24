@@ -8,7 +8,7 @@ permalink: /about/
 
 ### A quick introduction
 
-My name is `Vigneswaran Chandrasekaran` (Tamil: `விக்னேஸ்வரன்`, Sanskrit: `विघ्नेश्वरन्`, Hindi: `विघ्नेश्वरन`, )
+My name is `Vigneswaran Chandrasekaran` (Tamil: `விக்னேஸ்வரன்` , Sanskrit: `विघ्नेश्वरन्` , Hindi: `विघ्नेश्वरन`)
 
 and you can call me `Vicky`
 
