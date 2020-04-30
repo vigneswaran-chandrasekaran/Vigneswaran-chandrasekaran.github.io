@@ -3,7 +3,7 @@ layout: post
 title: Funning Science the Feynman's way
 ---
 
-Prologue - A series on exciting hacks and lessons from Feynman's life
+Prologue - A series on exciting hacks and lessons from Richard P.Feynman's life
 
 Richard P. Feynman, winner of Nobel Prize in 1965, is one of the world's exceptional theoretical physicists, and an
 adventurous character. He had inspired countless people and revolutionized the whole notion of how Science should be pursued.
