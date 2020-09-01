@@ -1,104 +1,17 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
-.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-m8qu{background-color:#fd6864;border-color:#000000;font-family:"Times New Roman", Times, serif !important;;font-size:16px;
-  font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j5nb{background-color:#efefef;border-color:#000000;font-family:"Times New Roman", Times, serif !important;;font-weight:bold;
-  text-align:left;vertical-align:top}
-.tg .tg-djig{background-color:#fffe65;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-y1rz{background-color:#67fd9a;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-m8qu">Week</th>
-    <th class="tg-m8qu">Highlights</th>
-    <th class="tg-m8qu">Issue(s) associated</th>
-    <th class="tg-m8qu">Pull Request(s) associated</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-j5nb">1</td>
-    <td class="tg-j5nb">Collect function for NeuronGroup<br>with name, size and Equations</td>
-    <td class="tg-j5nb">             -</td>
-    <td class="tg-j5nb">                   -</td>
-  </tr>
-  <tr>
-    <td class="tg-j5nb">2</td>
-    <td class="tg-j5nb">Collect function with Events and<br>Identifiers</td>
-    <td class="tg-j5nb"><a href="https://github.com/brian-team/brian2tools/issues/25" target="_blank" rel="noopener noreferrer">brian2tools/issues/25</a></td>
-    <td class="tg-j5nb"><a href="https://github.com/brian-team/brian2tools/pull/30" target="_blank" rel="noopener noreferrer">brian2tools/pull/30</a></td>
-  </tr>
-  <tr>
-    <td class="tg-j5nb">3</td>
-    <td class="tg-j5nb">Support PoissonGroup and <br>SpikeGeneratorGroup</td>
-    <td class="tg-j5nb"><a href="https://github.com/brian-team/brian2tools/issues/25" target="_blank" rel="noopener noreferrer">brian2tools/issues/25</a><br><a href="https://github.com/brian-team/brian2tools/issues/29" target="_blank" rel="noopener noreferrer">brian2tools/issues/29</a></td>
-    <td class="tg-j5nb"><a href="https://github.com/brian-team/brian2tools/pull/30" target="_blank" rel="noopener noreferrer">brian2tools/pull/30</a></td>
-  </tr>
-  <tr>
-    <td class="tg-j5nb">4</td>
-    <td class="tg-j5nb">Baseexport device</td>
-    <td class="tg-j5nb"><a href="https://github.com/brian-team/brian2tools/issues/26" target="_blank" rel="noopener noreferrer">brian2tools/issues/26</a></td>
-    <td class="tg-j5nb"><a href="https://github.com/brian-team/brian2tools/pull/31" target="_blank" rel="noopener noreferrer">brian2tools/pull/31</a></td>
-  </tr>
-  <tr>
-    <td class="tg-djig">5</td>
-    <td class="tg-djig">Supporting monitors and<br>run_regularly(). Support multiple<br>run()</td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/issues/33" target="_blank" rel="noopener noreferrer">brian2tools/issues/33</a></td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/pull/31" target="_blank" rel="noopener noreferrer">brian2tools/pull/31</a><br><a href="https://github.com/brian-team/brian2tools/pull/34" target="_blank" rel="noopener noreferrer">brian2tools/pull/34</a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-djig">6</td>
-    <td class="tg-djig">Refactor NeuroML export</td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/issues/27" target="_blank" rel="noopener noreferrer">brian2tools/issues/27</a></td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/pull/35" target="_blank" rel="noopener noreferrer">brian2tools/pull/35</a></td>
-  </tr>
-  <tr>
-    <td class="tg-djig">7</td>
-    <td class="tg-djig">Refactor NeuroML export and <br>conceptualize human readable<br>export</td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/issues/27" target="_blank" rel="noopener noreferrer">brian2tools/issues/27</a><br><a href="https://github.com/brian-team/brian2tools/issues/28" target="_blank" rel="noopener noreferrer">brian2tools/issues/28</a></td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/pull/35" target="_blank" rel="noopener noreferrer">brian2tools/pull/35</a></td>
-  </tr>
-  <tr>
-    <td class="tg-djig">8</td>
-    <td class="tg-djig">Exporter for human readable<br>export using markdown</td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/issues/28" target="_blank" rel="noopener noreferrer">brian2tools/issues/28</a></td>
-    <td class="tg-djig"><a href="https://github.com/brian-team/brian2tools/pull/37" target="_blank" rel="noopener noreferrer">brian2tools/pull/37</a></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">9</td>
-    <td class="tg-mcqj">Support Synapses</td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/issues/38" target="_blank" rel="noopener noreferrer">brian2tools/issues/38</a></td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/pull/39" target="_blank" rel="noopener noreferrer">brian2tools/pull/39</a></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">10</td>
-    <td class="tg-mcqj">Support Synapses and implement<br>array_cache mechanism</td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/issues/38" target="_blank" rel="noopener noreferrer">brian2tools/issues/38</a></td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/pull/39" target="_blank" rel="noopener noreferrer">brian2tools/pull/39</a></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">11</td>
-    <td class="tg-mcqj">Support PoissonInput, TimedArray, <br>and Custom user functions</td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/issues/38" target="_blank" rel="noopener noreferrer">brian2tools/issues/38</a></td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/pull/39" target="_blank" rel="noopener noreferrer">brian2tools/pull/39</a></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">12</td>
-    <td class="tg-mcqj">Finalizing human readable export<br>with mdexport device</td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/issues/28" target="_blank" rel="noopener noreferrer">brian2tools/issues/28</a></td>
-    <td class="tg-mcqj"><a href="https://github.com/brian-team/brian2tools/pull/37/" target="_blank" rel="noopener noreferrer">brian2tools/pull/37</a></td>
-  </tr>
-  <tr>
-    <td class="tg-y1rz">13</td>
-    <td class="tg-y1rz">Final stretch: wrapping, documenting<br>and report submission.<br>Showcase: <a href="https://github.com/Vigneswaran-Chandrasekaran/Brian2-examples-markdown-descriptions" target="_blank" rel="noopener noreferrer">Brian2 examples descriptions using markdown export</a></td>
-    <td class="tg-y1rz">              -<br></td>
-    <td class="tg-y1rz">                 -<br></td>
-  </tr>
-</tbody>
-</table>
+---
+layout: default
+title: Posts
+permalink: /about/
+---
+
+<div class="posts">
+  {% for post in site.posts reversed%}
+    <article class="post">
+
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+
+      <div class="entry">
+      </div>
+    </article>
+  {% endfor %}
+</div>
