@@ -4,11 +4,11 @@ layout: default
 
 <body style="background-color:LemonChiffon;">
 
-<div class="posts">
+<div class="posts", style="background-color:cornsilk">
   {% for post in site.posts reversed%}
     <article class="post">
 
-      <h6><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h6>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
       <div class="entry">
       </div>
