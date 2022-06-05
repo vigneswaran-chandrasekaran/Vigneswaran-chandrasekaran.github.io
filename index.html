@@ -2,21 +2,101 @@
 <head>
   <title>Vignes Web Page</title>
   <link rel="icon" type="image/x-icon" href="mypic.png">
+  <style>
+
+    img {
+      display: block;
+      width: 50vw;
+      height: 40vh;
+      object-fit: cover; /* or object-fit: contain; */
+      }
+
+      .navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #117292;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #111;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #117292;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+  </style>
 </head>
-<body>
-  </br>
+<body style="background-color: #D4E9F0">
+
+  <div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="gsoc20">GSoC2020</a>
+
+
+    <div class="dropdown">
+      <button class="dropbtn">Misc
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="https://vigneswebspace.blogspot.com">Blog</a>
+        <a href="https://sites.google.com/view/ramam-rajeva-lochanam/home">RRL</a>
+        <a href="vishnupuranam.html">Visnu PurAnam</a>
+        <a href="vishnutemples.html">Visnu temples</a>
+        <a href="verses.html">Verses</a>
+      </div>
+    </div>
+    <a href="aboutme.html">About</a>
+    <a href="social.html">Social</a>
+  </div>
+
   <h1><center> Vignes Web Page </center></h1>
-  </br>
-  <hr>
-  <center>
-  <h4><a href='https://vigneswebspace.blogspot.com'>My Blog</a></h4>
-  <h4><a href="https://sites.google.com/view/ramam-rajeva-lochanam/home">Ramam Rajeva Lochanam</a></h4>
-  <h4><a href='gsoc20'>GSoC-2020</a></h4>
-  <h4><a href="vishnutemples.html">Visnu temples I've visited</a></h4>
-  <h4><a href="vishnupuranam.html">Visnu PurAnam articles</a></h4>
-  <h4><a href="aboutme.html">About me</a></h4>
-  </center>
-  <hr></hr>
+  <center><img src="images/bg11.jpg" width="100%" height="100%"></center>
 
 </body>
 </html>
